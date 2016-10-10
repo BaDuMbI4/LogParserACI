@@ -21,7 +21,7 @@ public class Message implements Comparable<Message>{
 	public String getMessage() {
 		return message;
 	}
-
+	//master change
 	@Override
 	public String toString() {
 		return message;
