@@ -11,6 +11,8 @@ public class Message implements Comparable<Message>{
 		this.datetime = datetime;
 		this.message = message;
 	}
+	//FuckingMachine 
+	//Master Master Master
 
 	public Date getDatetime() {
 		return datetime;
