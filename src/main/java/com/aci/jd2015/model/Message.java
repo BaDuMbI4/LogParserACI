@@ -13,6 +13,7 @@ public class Message implements Comparable<Message>{
 	}
 	//FuckingMachine 
 	//Master Master Master
+	//fucking
 
 	public Date getDatetime() {
 		return datetime;
